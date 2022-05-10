@@ -1,0 +1,31 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000a\u0000g\u0000i\u0000c\u0000-\u0000r\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pulatoff/Magic-rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pulatoff/Magic-rest/issues"
+  },
+  "homepage": "https://github.com/Pulatoff/Magic-rest#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "lodash-es": "^4.17.21",
+    "regenerator-runtime": "^0.13.9",
+    "slugify": "^1.6.5"
+  }
+}
